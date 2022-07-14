@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou Gabriel Ferreira e estudo para me tornar um desenvolvedor FullStack.</h2>
+<h2 align="center">Olá, sou Gabriel Ferreira e estudo Análise e Desenvolvimento de sistemas</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/gabrielferreiraas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
